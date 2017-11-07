@@ -2,7 +2,7 @@
 
 ---
 
-Este repositorio contiene interrogaciones anteriores, al igual que algunas ayudantías y guías que podrían servir para cada parte de la materia.
+Este repositorio contiene interrogaciones anteriores, al igual que algunas ayudantías y guías que podrían servir para cada parte de la materia. Los archivos, al ser pesados, fueron subidos usando Git LFS. Por lo tanto, para clonar el repositorio es necesario [instalar Git LFS](https://help.github.com/articles/installing-git-large-file-storage/)
 
 ---
 
